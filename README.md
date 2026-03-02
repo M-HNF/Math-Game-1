@@ -1,10 +1,10 @@
-# 🚀 Math Magic: Game Matematika!
+# 🚀 Game Matematika!
 
-Selamat datang di proyek "Math Magic"! Ini adalah aplikasi game matematika seru yang dibuat menggunakan React Native dan Expo. Tujuan utama proyek ini adalah untuk menciptakan game yang bisa kamu build menjadi file APK mandiri dan dimainkan secara offline di perangkat Android.
+Selamat datang di proyek "Math Game"! Ini adalah aplikasi game matematika seru yang dibuat menggunakan React Native dan Expo. Tujuan utama proyek ini adalah untuk menciptakan game yang bisa kamu build menjadi file APK mandiri dan dimainkan secara offline di perangkat Android.
 
 ## ✨ Konteks Proyek
 
--   **Nama Proyek**: Math Magic
+-   **Nama Proyek**: Math Game
 -   **Teknologi**: React Native & Expo
 -   **Tujuan**: Mengembangkan game edukasi matematika yang menyenangkan dan dapat di-deploy sebagai aplikasi Android offline.
 
@@ -83,7 +83,7 @@ npx expo prebuild
 Setelah `prebuild` selesai, kamu akan memiliki folder `android` di direktori proyekmu.
 
 1.  Buka **Android Studio**.
-2.  Pilih `File` > `Open` dan navigasikan ke folder `android` di dalam direktori proyek "Math Magic" kamu (`c:\Users\HNF\Desktop\math-game-1\android`).
+2.  Pilih `File` > `Open` dan navigasikan ke folder `android` di dalam direktori proyek "Math Game" kamu (`c:\Users\HNF\Desktop\math-game-1\android`).
 3.  Biarkan Android Studio melakukan proses `Gradle Sync` dan mengunduh komponen yang diperlukan. Ini mungkin memakan waktu.
 
 #### c. Konfigurasi Build di Android Studio
@@ -123,4 +123,4 @@ Setelah kamu membuat perubahan pada kode, penting untuk menyimpannya di GitHub a
     ```
     Perintah ini akan mengirim semua commit lokalmu ke repositori GitHub.
 
-Itu dia! Semoga panduan ini membantu kamu dalam mengembangkan "Math Magic". Selamat bersenang-senang mengkode! 🚀
+Itu dia! Semoga panduan ini membantu kamu dalam mengembangkan "Math Game". Selamat bersenang-senang mengkode! 🚀
